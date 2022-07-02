@@ -48,3 +48,6 @@ Dylan will look into creating a society Instagram account.
 
 ## Hackathon
 Vincent will research into the feasability of a hackathon and what questions to use.
+
+## Trips
+Dylan and Vincent will look into organising trips for the Computer Science society.
