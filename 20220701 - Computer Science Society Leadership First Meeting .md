@@ -41,7 +41,7 @@ Dylan has created a Github Organisation where the meeting minutes can be stored 
 Maxim will review the budget and look into future hardware purchases for the society.
 
 ## PC building
-Maxim will look into building a consistent membership where people can build PC's in the Sixth Form Study.
+Maxim will look into building a consistent membership where people can build PCs in the Sixth Form Study.
 
 ## Social Media
 Dylan will look into creating a society Instagram account.
